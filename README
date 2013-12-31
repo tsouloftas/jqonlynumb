@@ -1,0 +1,5 @@
+A dead-simple & Super tiny Only-Numbers Validator jQuery plugin I oftenly use accross apps.
+
+Simply, add the minified version on your app and run:
+
+$("SELECTOR").keypress(vn);
